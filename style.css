@@ -1,0 +1,220 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.div_class {
+    position: absolute;
+    width: 1180px;
+    height: 96;
+    right: 130px;
+    text-align: right;
+
+
+
+}
+
+.nav_class ul li {
+    margin-top: 10px;
+    display: inline-block;
+    padding: 5px;
+
+}
+
+.nav_class ul li a {
+    text-decoration: none;
+    position: relative;
+    top: 25px;
+    right: 50px;
+}
+
+.logo {
+    width: 180px;
+    height: 96px;
+    position: absolute;
+    left: 50px;
+}
+
+.home {
+    color: red;
+}
+
+.mainimage_class {
+    width: 1440px;
+    height: 478px;
+    position: relative;
+    top: 96px;
+}
+
+.p_class {
+    position: relative;
+    width: 780px;
+    height: 106px;
+    top: 500px;
+    left: 120px;
+}
+
+.WELCOME {
+    font-size: 20px;
+}
+
+.text {
+    height: 48px;
+    font-size: 15px;
+}
+
+.photo_class {
+    background-color: #ebebf0;
+    width: 1440px;
+    height: 439px;
+    top: 930px;
+    position: relative;
+    padding: 130px;
+}
+
+.footer_class {
+    background-color: #19126B;
+    width: 1440px;
+    height: 161px;
+    top: 1000px;
+    position: relative;
+    bottom: 2000px;
+
+
+}
+
+.footer_class {
+    padding: 50px;
+    top: 900px;
+
+}
+
+.footer_text {
+    color: white;
+}
+
+.footer_text {
+    position: relative;
+    left: 800px;
+    display: inline-block;
+}
+
+
+/* ABOUT */
+
+.about {
+    color: red;
+}
+
+.welcome {
+    color: #090346;
+    position: absolute;
+    left: 130px;
+    bottom: 30px;
+}
+
+.text {
+    color: #090346;
+}
+
+.aboutdiv_class {
+    background-color: #ebebf0;
+    position: relative;
+    width: 1440px;
+    height: 516px;
+    top: 1002px;
+}
+
+.text {
+    position: relative;
+    width: 1189px;
+    height: 371px;
+    top: 73px;
+    left: 130px;
+    font-size: 15px;
+
+}
+
+.p_class {
+    position: relative;
+    top: 140px;
+    left: 0px;
+    font-size: 20px;
+
+}
+
+.about_image {
+    position: absolute;
+    width: 566px;
+    height: 371px;
+    top: 73px;
+    left: 755px;
+}
+
+/* CONTACT */
+
+.p_class {
+    width: 780px;
+    height: 92px;
+    top: 200px;
+    left: 130px;
+    position: relative;
+
+}
+
+.contact {
+    height: 44px;
+}
+
+.contact_text {
+    display: inline-block;
+}
+
+.contact_infromation {
+    width: 1440px;
+    height: 546px;
+    position: relative;
+    top: 906px;
+}
+
+.mini_information {
+    width: 323px;
+    position: relative;
+    height: 142px;
+    top: 78px;
+    left: 130px;
+}
+
+.inf {
+    position: relative;
+    color: palevioletred;
+}
+
+.address {
+    position: relative;
+    top: 10px;
+    color: blue;
+}
+
+.Tel {
+    position: relative;
+    top: 15px;
+    color: blue;
+
+}
+
+.Email {
+    position: relative;
+    top: 20px;
+    color: blue;
+
+}
+
+.map {
+    width: 680px;
+    height: 374px;
+    bottom: 70px;
+    left: 500px;
+    position: relative;
+}
